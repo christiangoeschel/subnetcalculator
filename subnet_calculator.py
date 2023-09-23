@@ -1,8 +1,8 @@
 # [ Name ]:             Subnet Calculator 
-# [ Version ]:          1.0
+# [ Version ]:          1.1
 # [ Author ]:           Christian Goeschel Ndjomouo
 # [ Created on ]:       Sep 17 2023
-# [ Last updated on ]:  Sep 19 2023
+# [ Last updated on ]:  Sep 23 2023
 # [ Tested on ]:        Python v3.9
 #
 # [ Description ]:      This program takes a random IPv4 address, subnet mask in DDN or CIDR as input.
